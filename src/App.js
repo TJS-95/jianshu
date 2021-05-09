@@ -4,7 +4,7 @@ import { BrowserRouter, Route } from 'react-router-dom'
 import store from './store'
 import Header from './common/header'
 import Home from './pages/home'
-import Detail from './pages/details'
+import Detail from './pages/detail'
 
 class App extends Component {
   render() {
